@@ -23,8 +23,8 @@ Compare the calculated values and measured values of voltage in both the cases.
 **CIRCUIT DIAGRAM:**
 
 <img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/2c40cc9b-e0a0-4c6e-87ee-b6a5fb3d5d3e" />
-<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/3aba684e-cec1-415c-a294-85db944ea71e" />
 
+<img width="574" height="1280" alt="image" src="https://github.com/user-attachments/assets/ee3fdfae-9cdb-4bca-9821-530fb68c034b" />
 
 
 **Calculation:**
